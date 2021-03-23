@@ -16,5 +16,5 @@ El link de zoom para las ayudantías siempre será el siguiente:
 Serán los lunes a las 21:30 pm. y los sábados a las 10:00 am. siempre y cuando exista un certamen antes.
 
 ## Ayudantías 
-* <img src="pdf_logo.svg" alt="drawing" width="12"/> [Ayudantía 1]() - <img src="pdf_logo.svg" alt="drawing" width="12"/> [Pauta Ayudantía 1]() - <img src="yt_logo.svg" alt="drawing" width="12"/> [Vídeo Ayudantía 1]() 
+* <img src="yt_logo.svg" alt="drawing" width="12"/> [Vídeo Ayudantía 1](https://youtu.be/YaPDLmLhgXg) 
 
