@@ -19,6 +19,7 @@ Serán los lunes a las 21:30 pm. y los sábados a las 10:00 am. siempre y cuando
 * <img src="yt_logo.svg" alt="drawing" width="12"/> [Vídeo Ayudantía 1](https://youtu.be/YaPDLmLhgXg) 
 * <img src="yt_logo.svg" alt="drawing" width="12"/> [Vídeo Ayudantía 2](https://youtu.be/YVAcs4mA4CE) 
 * <img src="yt_logo.svg" alt="drawing" width="12"/> [Vídeo Ayudantía 3](https://youtu.be/eaI8iFNoOh0) 
+* <img src="yt_logo.svg" alt="drawing" width="12"/> [Vídeo Ayudantía 4](https://youtu.be/1k2CChPEJ00) 
 
 
 [Volver al inicio](https://fabimath.github.io/Fabimath/)
