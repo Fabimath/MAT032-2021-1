@@ -16,10 +16,6 @@ El link de zoom para las ayudantías siempre será el siguiente:
 Serán los lunes a las 21:30 pm. y los sábados a las 10:00 am. siempre y cuando exista un certamen antes.
 
 ## Ayudantías 
-* <img src="yt_logo.svg" alt="drawing" width="12"/> [Vídeo Ayudantía 1](https://youtu.be/YaPDLmLhgXg) 
-* <img src="yt_logo.svg" alt="drawing" width="12"/> [Vídeo Ayudantía 2](https://youtu.be/YVAcs4mA4CE) 
-* <img src="yt_logo.svg" alt="drawing" width="12"/> [Vídeo Ayudantía 3](https://youtu.be/eaI8iFNoOh0) 
-* <img src="yt_logo.svg" alt="drawing" width="12"/> [Vídeo Ayudantía 4](https://youtu.be/1k2CChPEJ00) 
-* <img src="yt_logo.svg" alt="drawing" width="12"/> [Vídeo Ayudantía 5](https://youtu.be/4gyHMlKivDQ) 
+* <img src="yt_logo.svg" alt="drawing" width="12"/> [Vídeos Ayudantías](https://www.youtube.com/playlist?list=PLEZl5kuzUiGlaiq6-BUS2FYpfdhU8UEmO)
 
 [Volver al inicio](https://fabimath.github.io/Fabimath/)
