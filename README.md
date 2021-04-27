@@ -16,6 +16,7 @@ El link de zoom para las ayudantías siempre será el siguiente:
 Serán los lunes a las 21:30 pm. y los sábados a las 10:00 am. siempre y cuando exista un certamen antes.
 
 ## Ayudantías 
+* <img src="pdf_logo.svg" alt="drawing" width="12"/> [PDF de Ayudantías](https://drive.google.com/open?id=1WOewHakTP62-vxVwww-GU4DleKBzgt1e&authuser=fabian.ramirez%40sansano.usm.cl&usp=drive_fs)
 * <img src="yt_logo.svg" alt="drawing" width="12"/> [Vídeos Ayudantías](https://www.youtube.com/playlist?list=PLEZl5kuzUiGlaiq6-BUS2FYpfdhU8UEmO)
 
 [Volver al inicio](https://fabimath.github.io/Fabimath/)
